@@ -1,5 +1,6 @@
 <!--lint disable no-html-->
 # hello darkness my old friend
+## haha funny joke
 
 # Week 5: Code Reviews & Collaborating
 
