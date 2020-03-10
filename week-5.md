@@ -1,4 +1,5 @@
 <!--lint disable no-html-->
+![shutterstock_253256875-560x372](https://user-images.githubusercontent.com/60734114/76312980-611b7680-62d4-11ea-8e87-f2e297465157.jpg)
 
 # Week 5: Code Reviews & Collaborating
 # Test textgit
