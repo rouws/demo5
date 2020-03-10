@@ -10,19 +10,7 @@
 *   [Assignments](#assignments)
 *   [Homework](#homework)
 
-## Comic
 
-[![][comic-cover]][comic-link]
-
-> You Hang Up First by [**@xkcd**][comic-author].
-
-## Slides
-
-*   [**Slides**][slides-lab]
-
-## Assignments
-
-### Flow
 
 *   **Assignment**
 *   **Time**: 20min
