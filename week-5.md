@@ -1,28 +1,28 @@
 <!--lint disable no-html-->
-# hello darkness my old friend
 
+hey
 # Week 5: Code Reviews & Collaborating
 
-## Table of Contents
+# Table of Contents
 
 *   [Comic](#comic)
 *   [Slides](#slides)
 *   [Assignments](#assignments)
 *   [Homework](#homework)
 
-## Comic
+# Comic
 
 [![][comic-cover]][comic-link]
 
 > You Hang Up First by [**@xkcd**][comic-author].
 
-## Slides
+# Slides
 
 *   [**Slides**][slides-lab]
 
-## Assignments
+# Assignments
 
-### Flow
+# Flow
 
 *   **Assignment**
 *   **Time**: 20min
@@ -39,26 +39,26 @@ Take about 20min to investigate the [GitHub Flow](https://guides.github.com/intr
 * [How to write a commit message](https://chris.beams.io/posts/git-commit/)
 * [Be Social Guide](https://guides.github.com/activities/socialize/)
 
-### Conflicts
+# Conflicts
 
 *   **Assignment**
 *   **Time**: 1h
 
 Take about 1h to complete the [Managing Merge Conflicts course ](https://lab.github.com/githubtraining/managing-merge-conflicts) on GitHub lab. You will learn about resolving simple and complex merge conflicts with ease.
 
-**Extra resources**
+* Extra resources**
 * [Git flight rules](https://github.com/k88hudson/git-flight-rules/)
 
-### Community
+# Community
 
 *   **Research**
 *   **Time**: 1h
 
 Take about 1h to complete the [Community Starter kit course](https://lab.github.com/githubtraining/community-starter-kit) on GitHub lab. You will learn how you cam make it easier for others to contribute to projects.
 
-## Homework
+# Homework
 
-### Hand in your individual assignment for A1
+# Hand in your individual assignment for A1
 
 *   **Homework**
 
