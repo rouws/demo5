@@ -1,5 +1,7 @@
 <!--lint disable no-html-->
 # Bruhmoment
+![quieres](https://user-images.githubusercontent.com/51541543/76312937-4c3ee300-62d4-11ea-8691-9390f6b04447.png)
+
 # Week 5: Code Reviews & Collaborating
 
 ## Table of Contents
