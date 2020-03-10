@@ -27,7 +27,7 @@ heyy
 *   **Assignment**
 *   **Time**: 20min
 
-Take about 20min to investigate the [GitHub Flow](https://guides.github.com/introduction/flow/).
+Take about 20min. to investigate the [GitHub Flow](https://guides.github.com/introduction/flow/).
 
 * What is a `branch-based` workflow?
 * What is a `pull-request`?
