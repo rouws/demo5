@@ -77,3 +77,6 @@ Read about the [first assessment a1][a1] and hand in the URL to your Github repo
 [slides-lab]: https://docs.google.com/presentation/d/e/2PACX-1vToK0DJ1KEaVI2QQ2G2tHIa447XqZ8rzyOPJwWVkkQLyLZxI-hHSlE2pgZtu2hKOqjfcNI0NZkudwzZ/pub?start=false&loop=false&delayms=3000
 
 [w2lab]: week-2.md#lab
+
+
+3====D
